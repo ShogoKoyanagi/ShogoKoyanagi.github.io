@@ -1,66 +1,66 @@
-**Privacy Policy**
+**プライバシーポリシー**
 
-ShogoKoyanagi built the SimpleTodo app as a Free app. This SERVICE is provided by ShogoKoyanagi at no cost and is intended for use as is.
+ShogoKoyanagiはSimpleTodoアプリを無料アプリとして構築しました。本サービスは、ShogoKoyanagiが無償で提供するものであり、そのままご利用いただけます。
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+本ページは、本サービスを利用される方に、個人情報の収集、利用、開示に関する方針をお知らせするためのものです。
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+私のサービスを利用することを選択した場合、このポリシーに関連する情報の収集と使用に同意したものとみなされます。私が収集した個人情報は、サービスの提供および改善のために使用されます。私は、このプライバシーポリシーに記載されている場合を除き、あなたの情報を使用したり、誰と共有することはありません。
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at SimpleTodo unless otherwise defined in this Privacy Policy.
+本プライバシーポリシーで使用される用語は、本プライバシーポリシーで別途定義されない限り、SimpleTodoでアクセス可能な利用規約と同じ意味を有します。
 
-**Information Collection and Use**
+**情報の収集と利用**
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+本サービスをより快適にご利用いただくために、個人を特定できる情報の提供をお願いする場合があります。これらの情報は、お客様の端末に保存され、当社が収集することはありません。
 
-The app does use third-party services that may collect information used to identify you.
+本アプリは、お客様を特定するための情報を収集する可能性のある第三者サービスを使用しています。
 
-Link to the privacy policy of third-party service providers used by the app
+アプリが使用する第三者サービスプロバイダのプライバシーポリシーへのリンク
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 
-**Log Data**
+**ログデータ**
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+あなたが私のサービスを利用するたびに、アプリにエラーが発生した場合、私はあなたの携帯電話にログデータと呼ばれるデータと情報を（サードパーティ製品を通じて）収集することをお知らせしたいと思います。このログデータには、お客様の端末のインターネットプロトコル（「IP」）アドレス、端末名、オペレーティングシステムのバージョン、私のサービスを利用する際のアプリの設定、お客様がサービスを利用した日時、その他の統計情報などが含まれる場合があります。
 
-**Cookies**
+**クッキー**
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+クッキーは、一般的に匿名の一意の識別子として使用される少量のデータを含むファイルです。これらは、お客様が訪問したウェブサイトからお客様のブラウザに送信され、お客様のデバイスの内部メモリに保存されます。
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+本サービスでは、これらの「Cookie」を明示的に使用することはありません。ただし、本アプリは、情報を収集しサービスを向上させるために「Cookie」を使用するサードパーティのコードやライブラリを使用する場合があります。お客様は、これらのクッキーを受け入れるか拒否するかを選択し、クッキーがお客様のデバイスに送信されるタイミングを知ることができます。クッキーを拒否した場合、本サービスの一部をご利用いただけない場合があります。
 
-**Service Providers**
+**サービスプロバイダー**
 
-I may employ third-party companies and individuals due to the following reasons:
+私は、以下の理由により、第三者の企業および個人を雇用することがあります：
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+* 当社のサービスを円滑にするため；
+* 当社に代わって本サービスを提供するため
+* サービス関連サービスを提供するため
+* 本サービスがどのように利用されているかを分析するため。
 
-I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+本サービスの利用者に対し、これらの第三者が利用者の個人情報にアクセスできることをお知らせします。その理由は、当社に代わって彼らに割り当てられた業務を遂行するためです。ただし、これらの第三者には、他のいかなる目的にも情報を開示または使用しない義務があります。
 
-**Security**
+**セキュリティについて**
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+当社は、個人情報をご提供いただくお客様の信頼を第一と考え、個人情報の保護に努めております。しかし、インターネットを介した送信方法や電子的な保存方法は、100％安全で信頼できるものではなく、絶対的な安全性を保証するものではありません。
 
-**Links to Other Sites**
+**他のサイトへのリンク**
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+本サービスには、他のサイトへのリンクが含まれている場合があります。第三者のリンクをクリックすると、そのサイトに移動します。これらの外部サイトは私が運営しているものではありません。したがって、これらのウェブサイトのプライバシーポリシーを確認することを強くお勧めします。私は、第三者のサイトやサービスのコンテンツ、プライバシー・ポリシー、慣行を管理することはなく、一切の責任を負いません。
 
-**Children’s Privacy**
+**子供のプライバシー**
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
+本サービスは、13歳未満の方を対象としておりません。 私は、13歳未満のお子様から個人を特定できる情報を故意に収集することはありません。万が一、13歳未満の子供から個人情報が提供されたことが判明した場合、私は直ちにこれを当社のサーバーから削除します。保護者の方で、お子様が当社に個人情報を提供していることにお気づきの場合は、必要な措置を取らせていただきますので、ご連絡ください。
 
-**Changes to This Privacy Policy**
+**プライバシーポリシーの変更**
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+私は、プライバシーポリシーを随時更新することがあります。従って、変更がないかどうか、定期的にこのページを確認することをお勧めします。変更があった場合は、このページに新しいプライバシーポリシーを掲載することでお知らせします。
 
-This policy is effective as of 2023-12-28
+このポリシーは2023-12-28より有効となります。
 
-**Contact Us**
+**お問い合わせ**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at kd1ru9ms.nexus@gmail.com.
+私の個人情報保護方針についてご質問やご提案がございましたら、kd1ru9ms.nexus@gmail.com までご遠慮なくご連絡ください。
 
-This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+このプライバシーポリシーページは[privacypolicytemplate.net](https://privacypolicytemplate.net)で作成され、[App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)で修正/生成されました。
